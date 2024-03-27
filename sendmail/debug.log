@@ -1,0 +1,748 @@
+21.11.22 01:49:22 ** --- MESSAGE BEGIN ---
+21.11.22 01:49:22 ** To: filipstefanski1978@gmail.com
+21.11.22 01:49:22 ** Subject: askljdaskljdkj
+21.11.22 01:49:22 ** Email sent from: mateusz@gmail.com
+21.11.22 01:49:22 ** 
+21.11.22 01:49:22 ** You have new message frommateusz.
+21.11.22 01:49:22 ** 
+21.11.22 01:49:22 ** 
+21.11.22 01:49:22 ** kljaskldjaksldjaskldjaklsjdasdasd
+21.11.22 01:49:22 ** --- MESSAGE END ---
+21.11.22 01:49:22 ** Connecting to smtp.gmail.com:587
+21.11.22 01:49:22 ** Connected.
+21.11.22 01:49:22 << 220 smtp.gmail.com ESMTP 190sm721819ljf.4 - gsmtp<EOL>
+21.11.22 01:49:22 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 01:49:23 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 01:49:23 ** Authenticating as filipstefanski1978@gmail.com
+21.11.22 01:49:23 >> STARTTLS<EOL>
+21.11.22 01:49:23 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.22 01:49:23 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 01:49:23 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 01:49:23 >> AUTH LOGIN<EOL>
+21.11.22 01:49:23 << 334 VXNlcm5hbWU6<EOL>
+21.11.22 01:49:23 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.22 01:49:23 << 334 UGFzc3dvcmQ6<EOL>
+21.11.22 01:49:23 >> NjltYjY5eGQ=<EOL>
+21.11.22 01:49:23 << 235 2.7.0 Accepted<EOL>
+21.11.22 01:49:23 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.22 01:49:23 << 250 2.1.0 OK 190sm721819ljf.4 - gsmtp<EOL>
+21.11.22 01:49:23 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.22 01:49:23 << 250 2.1.5 OK 190sm721819ljf.4 - gsmtp<EOL>
+21.11.22 01:49:23 >> DATA<EOL>
+21.11.22 01:49:23 << 354  Go ahead 190sm721819ljf.4 - gsmtp<EOL>
+21.11.22 01:49:24 >> Date: Mon, 22 Nov 2021 01:49:23 +0100<EOL>
+21.11.22 01:49:24 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.22 01:49:24 >> Subject: askljdaskljdkj<EOL>
+21.11.22 01:49:24 >> Email sent from: mateusz@gmail.com<EOL>
+21.11.22 01:49:24 >> <EOL>
+21.11.22 01:49:24 >> You have new message frommateusz.<EOL>
+21.11.22 01:49:24 >> <EOL>
+21.11.22 01:49:24 >> <EOL>
+21.11.22 01:49:24 >> kljaskldjaksldjaskldjaklsjdasdasd<EOL>
+21.11.22 01:49:24 >> .<EOL>
+21.11.22 01:49:24 << 250 2.0.0 OK  1637542115 190sm721819ljf.4 - gsmtp<EOL>
+21.11.22 01:49:24 >> QUIT<EOL>
+21.11.22 01:49:24 << 221 2.0.0 closing connection 190sm721819ljf.4 - gsmtp<EOL>
+21.11.22 01:49:24 ** Disconnecting from smtp.gmail.com:587
+21.11.22 01:49:24 ** Disconnected.
+21.11.22 01:49:24 ** Disconnected.
+21.11.22 01:49:43 ** --- MESSAGE BEGIN ---
+21.11.22 01:49:43 ** To: filipstefanski1978@gmail.com
+21.11.22 01:49:43 ** Subject: Mariusz ja tu tylko testuje
+21.11.22 01:49:43 ** Email sent from: mateusz@gmail.com
+21.11.22 01:49:43 ** 
+21.11.22 01:49:43 ** You have new message frommateusz.
+21.11.22 01:49:43 ** 
+21.11.22 01:49:43 ** 
+21.11.22 01:49:43 ** Contact us działa XD
+21.11.22 01:49:43 ** --- MESSAGE END ---
+21.11.22 01:49:43 ** Connecting to smtp.gmail.com:587
+21.11.22 01:49:44 ** Connected.
+21.11.22 01:49:44 << 220 smtp.gmail.com ESMTP m18sm790409lfu.71 - gsmtp<EOL>
+21.11.22 01:49:44 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 01:49:44 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 01:49:44 ** Authenticating as filipstefanski1978@gmail.com
+21.11.22 01:49:44 >> STARTTLS<EOL>
+21.11.22 01:49:44 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.22 01:49:44 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 01:49:44 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 01:49:44 >> AUTH LOGIN<EOL>
+21.11.22 01:49:44 << 334 VXNlcm5hbWU6<EOL>
+21.11.22 01:49:44 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.22 01:49:44 << 334 UGFzc3dvcmQ6<EOL>
+21.11.22 01:49:44 >> NjltYjY5eGQ=<EOL>
+21.11.22 01:49:44 << 235 2.7.0 Accepted<EOL>
+21.11.22 01:49:44 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.22 01:49:44 << 250 2.1.0 OK m18sm790409lfu.71 - gsmtp<EOL>
+21.11.22 01:49:44 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.22 01:49:44 << 250 2.1.5 OK m18sm790409lfu.71 - gsmtp<EOL>
+21.11.22 01:49:44 >> DATA<EOL>
+21.11.22 01:49:44 << 354  Go ahead m18sm790409lfu.71 - gsmtp<EOL>
+21.11.22 01:49:44 >> Date: Mon, 22 Nov 2021 01:49:44 +0100<EOL>
+21.11.22 01:49:44 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.22 01:49:44 >> Subject: Mariusz ja tu tylko testuje<EOL>
+21.11.22 01:49:44 >> Email sent from: mateusz@gmail.com<EOL>
+21.11.22 01:49:44 >> <EOL>
+21.11.22 01:49:44 >> You have new message frommateusz.<EOL>
+21.11.22 01:49:44 >> <EOL>
+21.11.22 01:49:44 >> <EOL>
+21.11.22 01:49:44 >> Contact us działa XD<EOL>
+21.11.22 01:49:44 >> .<EOL>
+21.11.22 01:49:45 << 250 2.0.0 OK  1637542135 m18sm790409lfu.71 - gsmtp<EOL>
+21.11.22 01:49:45 >> QUIT<EOL>
+21.11.22 01:49:45 << 221 2.0.0 closing connection m18sm790409lfu.71 - gsmtp<EOL>
+21.11.22 01:49:45 ** Disconnecting from smtp.gmail.com:587
+21.11.22 01:49:45 ** Disconnected.
+21.11.22 01:49:45 ** Disconnected.
+21.11.22 09:52:28 ** --- MESSAGE BEGIN ---
+21.11.22 09:52:28 ** To: filipstefanski1978@gmail.com
+21.11.22 09:52:28 ** Subject: How to login in
+21.11.22 09:52:28 ** Email sent from: matthew@gmail.com
+21.11.22 09:52:28 ** 
+21.11.22 09:52:28 ** You have new message from Matthew.
+21.11.22 09:52:28 ** 
+21.11.22 09:52:28 ** 
+21.11.22 09:52:28 ** HELLO I HAVE PROBLEM WITH LOGGIN IN I DON''T KNOW WHAT TO DO :((( 
+21.11.22 09:52:28 ** --- MESSAGE END ---
+21.11.22 09:52:29 ** Connecting to smtp.gmail.com:587
+21.11.22 09:52:29 ** Connected.
+21.11.22 09:52:29 << 220 smtp.gmail.com ESMTP b16sm785229ljq.5 - gsmtp<EOL>
+21.11.22 09:52:29 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 09:52:29 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 09:52:29 ** Authenticating as filipstefanski1978@gmail.com
+21.11.22 09:52:29 >> STARTTLS<EOL>
+21.11.22 09:52:29 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.22 09:52:29 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 09:52:29 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 09:52:29 >> AUTH LOGIN<EOL>
+21.11.22 09:52:29 << 334 VXNlcm5hbWU6<EOL>
+21.11.22 09:52:29 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.22 09:52:29 << 334 UGFzc3dvcmQ6<EOL>
+21.11.22 09:52:29 >> NjltYjY5eGQ=<EOL>
+21.11.22 09:52:29 << 235 2.7.0 Accepted<EOL>
+21.11.22 09:52:29 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.22 09:52:29 << 250 2.1.0 OK b16sm785229ljq.5 - gsmtp<EOL>
+21.11.22 09:52:29 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.22 09:52:29 << 250 2.1.5 OK b16sm785229ljq.5 - gsmtp<EOL>
+21.11.22 09:52:29 >> DATA<EOL>
+21.11.22 09:52:30 << 354  Go ahead b16sm785229ljq.5 - gsmtp<EOL>
+21.11.22 09:52:30 >> Date: Mon, 22 Nov 2021 09:52:30 +0100<EOL>
+21.11.22 09:52:30 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.22 09:52:30 >> Subject: How to login in<EOL>
+21.11.22 09:52:30 >> Email sent from: matthew@gmail.com<EOL>
+21.11.22 09:52:30 >> <EOL>
+21.11.22 09:52:30 >> You have new message from Matthew.<EOL>
+21.11.22 09:52:30 >> <EOL>
+21.11.22 09:52:30 >> <EOL>
+21.11.22 09:52:30 >> HELLO I HAVE PROBLEM WITH LOGGIN IN I DON''T KNOW WHAT TO DO :((( <EOL>
+21.11.22 09:52:30 >> .<EOL>
+21.11.22 09:52:30 << 250 2.0.0 OK  1637571100 b16sm785229ljq.5 - gsmtp<EOL>
+21.11.22 09:52:30 >> QUIT<EOL>
+21.11.22 09:52:30 << 221 2.0.0 closing connection b16sm785229ljq.5 - gsmtp<EOL>
+21.11.22 09:52:30 ** Disconnected.
+21.11.22 09:52:30 ** Disconnected.
+21.11.22 09:52:30 ** Disconnected.
+21.11.22 21:16:31 ** --- MESSAGE BEGIN ---
+21.11.22 21:16:31 ** To: filipstefanski1978@gmail.com
+21.11.22 21:16:31 ** Subject: Where is info about milk wasted
+21.11.22 21:16:31 ** Email sent from: Kitek@kitkowo.cat
+21.11.22 21:16:31 ** 
+21.11.22 21:16:31 ** You have new message from Kitek.
+21.11.22 21:16:31 ** 
+21.11.22 21:16:31 ** asjkldasjd jasj dakljd aklsjd akjsd klaasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj ljsdkl ajskd jaskld jkalsj daklsj daklj sdkldj l
+21.11.22 21:16:31 ** --- MESSAGE END ---
+21.11.22 21:16:31 ** Connecting to smtp.gmail.com:587
+21.11.22 21:16:31 ** Connected.
+21.11.22 21:16:31 << 220 smtp.gmail.com ESMTP g6sm1065521lfu.275 - gsmtp<EOL>
+21.11.22 21:16:31 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 21:16:31 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 21:16:31 ** Authenticating as filipstefanski1978@gmail.com
+21.11.22 21:16:31 >> STARTTLS<EOL>
+21.11.22 21:16:31 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.22 21:16:31 >> EHLO DESKTOP-768F313<EOL>
+21.11.22 21:16:31 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.22 21:16:31 >> AUTH LOGIN<EOL>
+21.11.22 21:16:31 << 334 VXNlcm5hbWU6<EOL>
+21.11.22 21:16:31 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.22 21:16:32 << 334 UGFzc3dvcmQ6<EOL>
+21.11.22 21:16:32 >> NjltYjY5eGQ=<EOL>
+21.11.22 21:16:32 << 235 2.7.0 Accepted<EOL>
+21.11.22 21:16:32 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.22 21:16:32 << 250 2.1.0 OK g6sm1065521lfu.275 - gsmtp<EOL>
+21.11.22 21:16:32 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.22 21:16:32 << 250 2.1.5 OK g6sm1065521lfu.275 - gsmtp<EOL>
+21.11.22 21:16:32 >> DATA<EOL>
+21.11.22 21:16:32 << 354  Go ahead g6sm1065521lfu.275 - gsmtp<EOL>
+21.11.22 21:16:32 >> Date: Mon, 22 Nov 2021 21:16:32 +0100<EOL>
+21.11.22 21:16:32 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.22 21:16:32 >> Subject: Where is info about milk wasted<EOL>
+21.11.22 21:16:32 >> Email sent from: Kitek@kitkowo.cat<EOL>
+21.11.22 21:16:32 >> <EOL>
+21.11.22 21:16:32 >> You have new message from Kitek.<EOL>
+21.11.22 21:16:32 >> <EOL>
+21.11.22 21:16:32 >> asjkldasjd jasj dakljd aklsjd akjsd klaasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj lasjkldasjd jasj dakljd aklsjd akjsd klajsdkl ajskd jaskld jkalsj daklsj daklj sdkldj ljsdkl ajskd jaskld jkalsj daklsj daklj sdkldj l<EOL>
+21.11.22 21:16:32 >> .<EOL>
+21.11.22 21:16:33 << 250 2.0.0 OK  1637612143 g6sm1065521lfu.275 - gsmtp<EOL>
+21.11.22 21:16:33 >> QUIT<EOL>
+21.11.22 21:16:33 << 221 2.0.0 closing connection g6sm1065521lfu.275 - gsmtp<EOL>
+21.11.22 21:16:33 ** Disconnecting from smtp.gmail.com:587
+21.11.22 21:16:33 ** Disconnected.
+21.11.22 21:16:33 ** Disconnected.
+21.11.27 00:38:05 ** --- MESSAGE BEGIN ---
+21.11.27 00:38:05 ** To: filipstefanski1978@gmail.com
+21.11.27 00:38:05 ** Subject: Error
+21.11.27 00:38:05 ** Email sent from: Krystian@gmail.com
+21.11.27 00:38:05 ** 
+21.11.27 00:38:05 ** You have new message from Krystain.
+21.11.27 00:38:05 ** 
+21.11.27 00:38:05 ** Hello so i found and error on your website, and I want to help ypou fight it
+21.11.27 00:38:05 ** --- MESSAGE END ---
+21.11.27 00:38:06 ** Connecting to smtp.gmail.com:587
+21.11.27 00:38:06 ** Connected.
+21.11.27 00:38:06 << 220 smtp.gmail.com ESMTP v185sm607071lfa.54 - gsmtp<EOL>
+21.11.27 00:38:06 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:38:06 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:38:06 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:38:06 >> STARTTLS<EOL>
+21.11.27 00:38:06 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:38:06 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:38:06 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:38:06 >> AUTH LOGIN<EOL>
+21.11.27 00:38:06 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:38:06 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:38:06 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:38:06 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:38:06 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:38:06 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:38:07 << 250 2.1.0 OK v185sm607071lfa.54 - gsmtp<EOL>
+21.11.27 00:38:07 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:38:07 << 250 2.1.5 OK v185sm607071lfa.54 - gsmtp<EOL>
+21.11.27 00:38:07 >> DATA<EOL>
+21.11.27 00:38:07 << 354  Go ahead v185sm607071lfa.54 - gsmtp<EOL>
+21.11.27 00:38:07 >> Date: Sat, 27 Nov 2021 00:38:07 +0100<EOL>
+21.11.27 00:38:07 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:38:07 >> Subject: Error<EOL>
+21.11.27 00:38:07 >> Email sent from: Krystian@gmail.com<EOL>
+21.11.27 00:38:07 >> <EOL>
+21.11.27 00:38:07 >> You have new message from Krystain.<EOL>
+21.11.27 00:38:07 >> <EOL>
+21.11.27 00:38:07 >> Hello so i found and error on your website, and I want to help ypou fight it<EOL>
+21.11.27 00:38:07 >> .<EOL>
+21.11.27 00:38:07 << 250 2.0.0 OK  1637969837 v185sm607071lfa.54 - gsmtp<EOL>
+21.11.27 00:38:07 >> QUIT<EOL>
+21.11.27 00:38:07 << 221 2.0.0 closing connection v185sm607071lfa.54 - gsmtp<EOL>
+21.11.27 00:38:07 ** Disconnected.
+21.11.27 00:38:07 ** Disconnected.
+21.11.27 00:38:07 ** Disconnected.
+21.11.27 00:39:19 ** --- MESSAGE BEGIN ---
+21.11.27 00:39:19 ** To: filipstefanski1978@gmail.com
+21.11.27 00:39:19 ** Subject: Error
+21.11.27 00:39:19 ** Email sent from: Krystia123n@gmail.com
+21.11.27 00:39:19 ** 
+21.11.27 00:39:19 ** You have new message from Krystain123.
+21.11.27 00:39:19 ** 
+21.11.27 00:39:19 ** Hello so i found and error on your website, and I want to help ypou fight itasdas dasd asd asd
+21.11.27 00:39:19 ** --- MESSAGE END ---
+21.11.27 00:39:19 ** Connecting to smtp.gmail.com:587
+21.11.27 00:39:19 ** Connected.
+21.11.27 00:39:19 << 220 smtp.gmail.com ESMTP 138sm631011ljf.89 - gsmtp<EOL>
+21.11.27 00:39:19 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:39:19 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:39:19 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:39:19 >> STARTTLS<EOL>
+21.11.27 00:39:19 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:39:20 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:39:20 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:39:20 >> AUTH LOGIN<EOL>
+21.11.27 00:39:20 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:39:20 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:39:20 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:39:20 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:39:20 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:39:20 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:39:20 << 250 2.1.0 OK 138sm631011ljf.89 - gsmtp<EOL>
+21.11.27 00:39:20 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:39:20 << 250 2.1.5 OK 138sm631011ljf.89 - gsmtp<EOL>
+21.11.27 00:39:20 >> DATA<EOL>
+21.11.27 00:39:20 << 354  Go ahead 138sm631011ljf.89 - gsmtp<EOL>
+21.11.27 00:39:20 >> Date: Sat, 27 Nov 2021 00:39:20 +0100<EOL>
+21.11.27 00:39:20 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:39:20 >> Subject: Error<EOL>
+21.11.27 00:39:20 >> Email sent from: Krystia123n@gmail.com<EOL>
+21.11.27 00:39:20 >> <EOL>
+21.11.27 00:39:20 >> You have new message from Krystain123.<EOL>
+21.11.27 00:39:20 >> <EOL>
+21.11.27 00:39:20 >> Hello so i found and error on your website, and I want to help ypou fight itasdas dasd asd asd<EOL>
+21.11.27 00:39:20 >> .<EOL>
+21.11.27 00:39:21 << 250 2.0.0 OK  1637969910 138sm631011ljf.89 - gsmtp<EOL>
+21.11.27 00:39:21 >> QUIT<EOL>
+21.11.27 00:39:21 << 221 2.0.0 closing connection 138sm631011ljf.89 - gsmtp<EOL>
+21.11.27 00:39:21 ** Disconnected.
+21.11.27 00:39:21 ** Disconnected.
+21.11.27 00:39:21 ** Disconnected.
+21.11.27 00:45:51 ** --- MESSAGE BEGIN ---
+21.11.27 00:45:51 ** To: filipstefanski1978@gmail.com
+21.11.27 00:45:51 ** Subject: daksjd
+21.11.27 00:45:51 ** Email sent from: another@gasd
+21.11.27 00:45:51 ** 
+21.11.27 00:45:51 ** You have new message from another.
+21.11.27 00:45:51 ** 
+21.11.27 00:45:51 ** kjasdk djasklj dakljd askjd as'dka
+21.11.27 00:45:51 ** skd 
+21.11.27 00:45:51 ** askd aksd askd as d
+21.11.27 00:45:51 ** kas dkas das dkashow fast i can write i dunno dunno dunono asdl; kasd
+21.11.27 00:45:51 ** --- MESSAGE END ---
+21.11.27 00:45:52 ** Connecting to smtp.gmail.com:587
+21.11.27 00:45:52 ** Connected.
+21.11.27 00:45:52 << 220 smtp.gmail.com ESMTP s9sm605694lfr.304 - gsmtp<EOL>
+21.11.27 00:45:52 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:45:52 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:45:52 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:45:52 >> STARTTLS<EOL>
+21.11.27 00:45:52 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:45:52 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:45:52 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:45:52 >> AUTH LOGIN<EOL>
+21.11.27 00:45:52 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:45:52 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:45:52 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:45:52 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:45:52 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:45:52 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:45:52 << 250 2.1.0 OK s9sm605694lfr.304 - gsmtp<EOL>
+21.11.27 00:45:52 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:45:52 << 250 2.1.5 OK s9sm605694lfr.304 - gsmtp<EOL>
+21.11.27 00:45:52 >> DATA<EOL>
+21.11.27 00:45:53 << 354  Go ahead s9sm605694lfr.304 - gsmtp<EOL>
+21.11.27 00:45:53 >> Date: Sat, 27 Nov 2021 00:45:53 +0100<EOL>
+21.11.27 00:45:53 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:45:53 >> Subject: daksjd<EOL>
+21.11.27 00:45:53 >> Email sent from: another@gasd<EOL>
+21.11.27 00:45:53 >> <EOL>
+21.11.27 00:45:53 >> You have new message from another.<EOL>
+21.11.27 00:45:53 >> <EOL>
+21.11.27 00:45:53 >> kjasdk djasklj dakljd askjd as'dka<EOL>
+21.11.27 00:45:53 >> skd <EOL>
+21.11.27 00:45:53 >> askd aksd askd as d<EOL>
+21.11.27 00:45:53 >> kas dkas das dkashow fast i can write i dunno dunno dunono asdl; kasd<EOL>
+21.11.27 00:45:53 >> .<EOL>
+21.11.27 00:45:53 << 250 2.0.0 OK  1637970303 s9sm605694lfr.304 - gsmtp<EOL>
+21.11.27 00:45:53 >> QUIT<EOL>
+21.11.27 00:45:53 << 221 2.0.0 closing connection s9sm605694lfr.304 - gsmtp<EOL>
+21.11.27 00:45:53 ** Disconnected.
+21.11.27 00:45:53 ** Disconnected.
+21.11.27 00:45:53 ** Disconnected.
+21.11.27 00:49:44 ** --- MESSAGE BEGIN ---
+21.11.27 00:49:44 ** To: filipstefanski1978@gmail.com
+21.11.27 00:49:44 ** Subject: asdasdasda
+21.11.27 00:49:44 ** Email sent from: asdasdasdasd
+21.11.27 00:49:44 ** 
+21.11.27 00:49:44 ** You have new message from asdasdasd.
+21.11.27 00:49:44 ** 
+21.11.27 00:49:44 ** sdasdasd asd asd 
+21.11.27 00:49:44 ** --- MESSAGE END ---
+21.11.27 00:49:44 ** Connecting to smtp.gmail.com:587
+21.11.27 00:49:44 ** Connected.
+21.11.27 00:49:44 << 220 smtp.gmail.com ESMTP g22sm606681lfr.237 - gsmtp<EOL>
+21.11.27 00:49:44 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:49:44 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:49:44 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:49:44 >> STARTTLS<EOL>
+21.11.27 00:49:44 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:49:45 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:49:45 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:49:45 >> AUTH LOGIN<EOL>
+21.11.27 00:49:45 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:49:45 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:49:45 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:49:45 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:49:45 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:49:45 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:49:45 << 250 2.1.0 OK g22sm606681lfr.237 - gsmtp<EOL>
+21.11.27 00:49:45 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:49:45 << 250 2.1.5 OK g22sm606681lfr.237 - gsmtp<EOL>
+21.11.27 00:49:45 >> DATA<EOL>
+21.11.27 00:49:45 << 354  Go ahead g22sm606681lfr.237 - gsmtp<EOL>
+21.11.27 00:49:45 >> Date: Sat, 27 Nov 2021 00:49:45 +0100<EOL>
+21.11.27 00:49:45 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:49:45 >> Subject: asdasdasda<EOL>
+21.11.27 00:49:45 >> Email sent from: asdasdasdasd<EOL>
+21.11.27 00:49:45 >> <EOL>
+21.11.27 00:49:45 >> You have new message from asdasdasd.<EOL>
+21.11.27 00:49:45 >> <EOL>
+21.11.27 00:49:45 >> sdasdasd asd asd <EOL>
+21.11.27 00:49:45 >> .<EOL>
+21.11.27 00:49:46 << 250 2.0.0 OK  1637970535 g22sm606681lfr.237 - gsmtp<EOL>
+21.11.27 00:49:46 >> QUIT<EOL>
+21.11.27 00:49:46 << 221 2.0.0 closing connection g22sm606681lfr.237 - gsmtp<EOL>
+21.11.27 00:49:46 ** Disconnected.
+21.11.27 00:49:46 ** Disconnected.
+21.11.27 00:49:46 ** Disconnected.
+21.11.27 00:50:27 ** --- MESSAGE BEGIN ---
+21.11.27 00:50:27 ** To: filipstefanski1978@gmail.com
+21.11.27 00:50:27 ** Subject: asdasdasda
+21.11.27 00:50:27 ** Email sent from: asdasdasdasd
+21.11.27 00:50:27 ** 
+21.11.27 00:50:27 ** You have new message from asdasdasd.
+21.11.27 00:50:27 ** 
+21.11.27 00:50:27 ** sdasdasd asd asd 
+21.11.27 00:50:27 ** --- MESSAGE END ---
+21.11.27 00:50:27 ** Connecting to smtp.gmail.com:587
+21.11.27 00:50:28 ** Connected.
+21.11.27 00:50:28 << 220 smtp.gmail.com ESMTP o8sm610584lfk.2 - gsmtp<EOL>
+21.11.27 00:50:28 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:50:28 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:50:28 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:50:28 >> STARTTLS<EOL>
+21.11.27 00:50:28 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:50:28 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:50:28 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:50:28 >> AUTH LOGIN<EOL>
+21.11.27 00:50:28 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:50:28 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:50:28 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:50:28 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:50:28 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:50:28 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:50:28 << 250 2.1.0 OK o8sm610584lfk.2 - gsmtp<EOL>
+21.11.27 00:50:28 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:50:28 << 250 2.1.5 OK o8sm610584lfk.2 - gsmtp<EOL>
+21.11.27 00:50:28 >> DATA<EOL>
+21.11.27 00:50:29 << 354  Go ahead o8sm610584lfk.2 - gsmtp<EOL>
+21.11.27 00:50:29 >> Date: Sat, 27 Nov 2021 00:50:29 +0100<EOL>
+21.11.27 00:50:29 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:50:29 >> Subject: asdasdasda<EOL>
+21.11.27 00:50:29 >> Email sent from: asdasdasdasd<EOL>
+21.11.27 00:50:29 >> <EOL>
+21.11.27 00:50:29 >> You have new message from asdasdasd.<EOL>
+21.11.27 00:50:29 >> <EOL>
+21.11.27 00:50:29 >> sdasdasd asd asd <EOL>
+21.11.27 00:50:29 >> .<EOL>
+21.11.27 00:50:29 << 250 2.0.0 OK  1637970578 o8sm610584lfk.2 - gsmtp<EOL>
+21.11.27 00:50:29 >> QUIT<EOL>
+21.11.27 00:50:29 << 221 2.0.0 closing connection o8sm610584lfk.2 - gsmtp<EOL>
+21.11.27 00:50:29 ** Disconnecting from smtp.gmail.com:587
+21.11.27 00:50:29 ** Disconnected.
+21.11.27 00:50:29 ** Disconnected.
+21.11.27 00:51:42 ** --- MESSAGE BEGIN ---
+21.11.27 00:51:42 ** To: filipstefanski1978@gmail.com
+21.11.27 00:51:42 ** Subject: asdasdasda
+21.11.27 00:51:42 ** Email sent from: asdasdasdasd
+21.11.27 00:51:42 ** 
+21.11.27 00:51:42 ** You have new message from asdasdasd.
+21.11.27 00:51:42 ** 
+21.11.27 00:51:42 ** sdasdasd asd asd 123
+21.11.27 00:51:42 ** --- MESSAGE END ---
+21.11.27 00:51:42 ** Connecting to smtp.gmail.com:587
+21.11.27 00:51:42 ** Connected.
+21.11.27 00:51:42 << 220 smtp.gmail.com ESMTP t25sm623995ljd.24 - gsmtp<EOL>
+21.11.27 00:51:42 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:51:42 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:51:42 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:51:42 >> STARTTLS<EOL>
+21.11.27 00:51:43 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:51:43 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:51:43 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:51:43 >> AUTH LOGIN<EOL>
+21.11.27 00:51:43 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:51:43 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:51:43 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:51:43 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:51:43 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:51:43 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:51:43 << 250 2.1.0 OK t25sm623995ljd.24 - gsmtp<EOL>
+21.11.27 00:51:43 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:51:43 << 250 2.1.5 OK t25sm623995ljd.24 - gsmtp<EOL>
+21.11.27 00:51:43 >> DATA<EOL>
+21.11.27 00:51:43 << 354  Go ahead t25sm623995ljd.24 - gsmtp<EOL>
+21.11.27 00:51:43 >> Date: Sat, 27 Nov 2021 00:51:43 +0100<EOL>
+21.11.27 00:51:43 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:51:43 >> Subject: asdasdasda<EOL>
+21.11.27 00:51:43 >> Email sent from: asdasdasdasd<EOL>
+21.11.27 00:51:43 >> <EOL>
+21.11.27 00:51:43 >> You have new message from asdasdasd.<EOL>
+21.11.27 00:51:43 >> <EOL>
+21.11.27 00:51:43 >> sdasdasd asd asd 123<EOL>
+21.11.27 00:51:43 >> .<EOL>
+21.11.27 00:51:44 << 250 2.0.0 OK  1637970653 t25sm623995ljd.24 - gsmtp<EOL>
+21.11.27 00:51:44 >> QUIT<EOL>
+21.11.27 00:51:44 << 221 2.0.0 closing connection t25sm623995ljd.24 - gsmtp<EOL>
+21.11.27 00:51:44 ** Disconnecting from smtp.gmail.com:587
+21.11.27 00:51:44 ** Disconnected.
+21.11.27 00:51:44 ** Disconnected.
+21.11.27 00:53:40 ** --- MESSAGE BEGIN ---
+21.11.27 00:53:40 ** To: filipstefanski1978@gmail.com
+21.11.27 00:53:40 ** Subject: asdasdasda
+21.11.27 00:53:40 ** Email sent from: asdasdasdasd
+21.11.27 00:53:40 ** 
+21.11.27 00:53:40 ** You have new message from asdasdasd.
+21.11.27 00:53:40 ** 
+21.11.27 00:53:40 ** sdasdasd asd asd 123
+21.11.27 00:53:40 ** --- MESSAGE END ---
+21.11.27 00:53:40 ** Connecting to smtp.gmail.com:587
+21.11.27 00:53:40 ** Connected.
+21.11.27 00:53:40 << 220 smtp.gmail.com ESMTP q14sm608770lfo.143 - gsmtp<EOL>
+21.11.27 00:53:40 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:53:40 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:53:40 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:53:40 >> STARTTLS<EOL>
+21.11.27 00:53:40 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:53:41 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:53:41 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:53:41 >> AUTH LOGIN<EOL>
+21.11.27 00:53:41 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:53:41 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:53:41 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:53:41 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:53:41 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:53:41 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:53:41 << 250 2.1.0 OK q14sm608770lfo.143 - gsmtp<EOL>
+21.11.27 00:53:41 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:53:41 << 250 2.1.5 OK q14sm608770lfo.143 - gsmtp<EOL>
+21.11.27 00:53:41 >> DATA<EOL>
+21.11.27 00:53:41 << 354  Go ahead q14sm608770lfo.143 - gsmtp<EOL>
+21.11.27 00:53:41 >> Date: Sat, 27 Nov 2021 00:53:41 +0100<EOL>
+21.11.27 00:53:41 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:53:41 >> Subject: asdasdasda<EOL>
+21.11.27 00:53:41 >> Email sent from: asdasdasdasd<EOL>
+21.11.27 00:53:41 >> <EOL>
+21.11.27 00:53:41 >> You have new message from asdasdasd.<EOL>
+21.11.27 00:53:41 >> <EOL>
+21.11.27 00:53:41 >> sdasdasd asd asd 123<EOL>
+21.11.27 00:53:41 >> .<EOL>
+21.11.27 00:53:42 << 250 2.0.0 OK  1637970771 q14sm608770lfo.143 - gsmtp<EOL>
+21.11.27 00:53:42 >> QUIT<EOL>
+21.11.27 00:53:42 << 221 2.0.0 closing connection q14sm608770lfo.143 - gsmtp<EOL>
+21.11.27 00:53:42 ** Disconnecting from smtp.gmail.com:587
+21.11.27 00:53:42 ** Disconnected.
+21.11.27 00:53:42 ** Disconnected.
+21.11.27 00:53:49 ** --- MESSAGE BEGIN ---
+21.11.27 00:53:49 ** To: filipstefanski1978@gmail.com
+21.11.27 00:53:49 ** Subject: asdasdasda
+21.11.27 00:53:49 ** Email sent from: asdasdasdasd
+21.11.27 00:53:49 ** 
+21.11.27 00:53:49 ** You have new message from asdasdasd.
+21.11.27 00:53:49 ** 
+21.11.27 00:53:49 ** sdasdasd asd asd 123123123
+21.11.27 00:53:49 ** --- MESSAGE END ---
+21.11.27 00:53:49 ** Connecting to smtp.gmail.com:587
+21.11.27 00:53:49 ** Connected.
+21.11.27 00:53:49 << 220 smtp.gmail.com ESMTP b7sm608243lfb.224 - gsmtp<EOL>
+21.11.27 00:53:49 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:53:49 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:53:49 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 00:53:49 >> STARTTLS<EOL>
+21.11.27 00:53:49 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 00:53:49 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 00:53:49 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 00:53:49 >> AUTH LOGIN<EOL>
+21.11.27 00:53:49 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 00:53:49 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 00:53:49 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 00:53:49 >> NjltYjY5eGQ=<EOL>
+21.11.27 00:53:49 << 235 2.7.0 Accepted<EOL>
+21.11.27 00:53:49 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:53:49 << 250 2.1.0 OK b7sm608243lfb.224 - gsmtp<EOL>
+21.11.27 00:53:49 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 00:53:49 << 250 2.1.5 OK b7sm608243lfb.224 - gsmtp<EOL>
+21.11.27 00:53:49 >> DATA<EOL>
+21.11.27 00:53:50 << 354  Go ahead b7sm608243lfb.224 - gsmtp<EOL>
+21.11.27 00:53:50 >> Date: Sat, 27 Nov 2021 00:53:50 +0100<EOL>
+21.11.27 00:53:50 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 00:53:50 >> Subject: asdasdasda<EOL>
+21.11.27 00:53:50 >> Email sent from: asdasdasdasd<EOL>
+21.11.27 00:53:50 >> <EOL>
+21.11.27 00:53:50 >> You have new message from asdasdasd.<EOL>
+21.11.27 00:53:50 >> <EOL>
+21.11.27 00:53:50 >> sdasdasd asd asd 123123123<EOL>
+21.11.27 00:53:50 >> .<EOL>
+21.11.27 00:53:50 << 250 2.0.0 OK  1637970779 b7sm608243lfb.224 - gsmtp<EOL>
+21.11.27 00:53:50 >> QUIT<EOL>
+21.11.27 00:53:50 << 221 2.0.0 closing connection b7sm608243lfb.224 - gsmtp<EOL>
+21.11.27 00:53:50 ** Disconnected.
+21.11.27 00:53:50 ** Disconnected.
+21.11.27 00:53:50 ** Disconnected.
+21.11.27 14:21:03 ** --- MESSAGE BEGIN ---
+21.11.27 14:21:03 ** To: filipstefanski1978@gmail.com
+21.11.27 14:21:03 ** Subject: asdasdajskd
+21.11.27 14:21:03 ** Email sent from: asdasdasd@gmail.com
+21.11.27 14:21:03 ** 
+21.11.27 14:21:03 ** You have new message from asdasd.
+21.11.27 14:21:03 ** 
+21.11.27 14:21:03 ** askldj askldjakl sjdklasjd asd 
+21.11.27 14:21:03 ** --- MESSAGE END ---
+21.11.27 14:21:03 ** Connecting to smtp.gmail.com:587
+21.11.27 14:21:04 ** Connected.
+21.11.27 14:21:04 << 220 smtp.gmail.com ESMTP i6sm792943lji.115 - gsmtp<EOL>
+21.11.27 14:21:04 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 14:21:04 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 14:21:04 ** Authenticating as filipstefanski1978@gmail.com
+21.11.27 14:21:04 >> STARTTLS<EOL>
+21.11.27 14:21:04 << 220 2.0.0 Ready to start TLS<EOL>
+21.11.27 14:21:04 >> EHLO DESKTOP-768F313<EOL>
+21.11.27 14:21:04 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.11.27 14:21:04 >> AUTH LOGIN<EOL>
+21.11.27 14:21:04 << 334 VXNlcm5hbWU6<EOL>
+21.11.27 14:21:04 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.11.27 14:21:04 << 334 UGFzc3dvcmQ6<EOL>
+21.11.27 14:21:04 >> NjltYjY5eGQ=<EOL>
+21.11.27 14:21:04 << 235 2.7.0 Accepted<EOL>
+21.11.27 14:21:04 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.11.27 14:21:04 << 250 2.1.0 OK i6sm792943lji.115 - gsmtp<EOL>
+21.11.27 14:21:04 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.11.27 14:21:04 << 250 2.1.5 OK i6sm792943lji.115 - gsmtp<EOL>
+21.11.27 14:21:04 >> DATA<EOL>
+21.11.27 14:21:05 << 354  Go ahead i6sm792943lji.115 - gsmtp<EOL>
+21.11.27 14:21:05 >> Date: Sat, 27 Nov 2021 14:21:05 +0100<EOL>
+21.11.27 14:21:05 >> To: filipstefanski1978@gmail.com<EOL>
+21.11.27 14:21:05 >> Subject: asdasdajskd<EOL>
+21.11.27 14:21:05 >> Email sent from: asdasdasd@gmail.com<EOL>
+21.11.27 14:21:05 >> <EOL>
+21.11.27 14:21:05 >> You have new message from asdasd.<EOL>
+21.11.27 14:21:05 >> <EOL>
+21.11.27 14:21:05 >> askldj askldjakl sjdklasjd asd <EOL>
+21.11.27 14:21:05 >> .<EOL>
+21.11.27 14:21:05 << 250 2.0.0 OK  1638019214 i6sm792943lji.115 - gsmtp<EOL>
+21.11.27 14:21:05 >> QUIT<EOL>
+21.11.27 14:21:05 << 221 2.0.0 closing connection i6sm792943lji.115 - gsmtp<EOL>
+21.11.27 14:21:05 ** Disconnecting from smtp.gmail.com:587
+21.11.27 14:21:05 ** Disconnected.
+21.11.27 14:21:05 ** Disconnected.
+21.12.12 19:45:11 ** --- MESSAGE BEGIN ---
+21.12.12 19:45:11 ** To: filipstefanski1978@gmail.com
+21.12.12 19:45:11 ** Subject: 
+21.12.12 19:45:11 ** Email sent from:
+21.12.12 19:45:11 ** 
+21.12.12 19:45:11 ** You have new message from .
+21.12.12 19:45:11 ** 
+21.12.12 19:45:11 ** 
+21.12.12 19:45:11 ** --- MESSAGE END ---
+21.12.12 19:45:12 ** Connecting to smtp.gmail.com:587
+21.12.12 19:45:12 ** Connected.
+21.12.12 19:45:12 << 220 smtp.gmail.com ESMTP y4sm1151034ljp.16 - gsmtp<EOL>
+21.12.12 19:45:12 >> EHLO DESKTOP-768F313<EOL>
+21.12.12 19:45:12 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.12.12 19:45:12 ** Authenticating as filipstefanski1978@gmail.com
+21.12.12 19:45:12 >> STARTTLS<EOL>
+21.12.12 19:45:12 << 220 2.0.0 Ready to start TLS<EOL>
+21.12.12 19:45:12 >> EHLO DESKTOP-768F313<EOL>
+21.12.12 19:45:12 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.12.12 19:45:12 >> AUTH LOGIN<EOL>
+21.12.12 19:45:12 << 334 VXNlcm5hbWU6<EOL>
+21.12.12 19:45:12 >> ZmlsaXBzdGVmYW5za2kxOTc4QGdtYWlsLmNvbQ==<EOL>
+21.12.12 19:45:12 << 334 UGFzc3dvcmQ6<EOL>
+21.12.12 19:45:12 >> NjltYjY5eGQ=<EOL>
+21.12.12 19:45:12 << 235 2.7.0 Accepted<EOL>
+21.12.12 19:45:12 >> MAIL FROM: <filipstefanski1978@gmail.com><EOL>
+21.12.12 19:45:12 << 250 2.1.0 OK y4sm1151034ljp.16 - gsmtp<EOL>
+21.12.12 19:45:12 >> RCPT TO: <filipstefanski1978@gmail.com><EOL>
+21.12.12 19:45:12 << 250 2.1.5 OK y4sm1151034ljp.16 - gsmtp<EOL>
+21.12.12 19:45:12 >> DATA<EOL>
+21.12.12 19:45:13 << 354  Go ahead y4sm1151034ljp.16 - gsmtp<EOL>
+21.12.12 19:45:13 >> Date: Sun, 12 Dec 2021 19:45:13 +0100<EOL>
+21.12.12 19:45:13 >> To: filipstefanski1978@gmail.com<EOL>
+21.12.12 19:45:13 >> Subject: <EOL>
+21.12.12 19:45:13 >> Email sent from:<EOL>
+21.12.12 19:45:13 >> <EOL>
+21.12.12 19:45:13 >> You have new message from .<EOL>
+21.12.12 19:45:13 >> <EOL>
+21.12.12 19:45:13 >> <EOL>
+21.12.12 19:45:13 >> .<EOL>
+21.12.12 19:45:13 << 250 2.0.0 OK  1639334657 y4sm1151034ljp.16 - gsmtp<EOL>
+21.12.12 19:45:13 >> QUIT<EOL>
+21.12.12 19:45:13 << 221 2.0.0 closing connection y4sm1151034ljp.16 - gsmtp<EOL>
+21.12.12 19:45:13 ** Disconnected.
+21.12.12 19:45:13 ** Disconnected.
+21.12.12 19:45:13 ** Disconnected.
+21.12.14 12:05:36 ** --- MESSAGE BEGIN ---
+21.12.14 12:05:36 ** To: automotivesitecontact@gmail.com
+21.12.14 12:05:36 ** Subject: Temat
+21.12.14 12:05:36 ** Email sent from: michał@gmail.com
+21.12.14 12:05:36 ** 
+21.12.14 12:05:36 ** You have new message from Michał.
+21.12.14 12:05:36 ** 
+21.12.14 12:05:36 ** wiadomosc
+21.12.14 12:05:36 ** --- MESSAGE END ---
+21.12.14 12:05:37 ** Connecting to smtp.gmail.com:587
+21.12.14 12:05:37 ** Connected.
+21.12.14 12:05:37 << 220 smtp.gmail.com ESMTP c15sm1788091lfb.154 - gsmtp<EOL>
+21.12.14 12:05:37 >> EHLO DESKTOP-768F313<EOL>
+21.12.14 12:05:37 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.12.14 12:05:37 ** Authenticating as automotivesitecontact@gmail.com
+21.12.14 12:05:37 >> STARTTLS<EOL>
+21.12.14 12:05:37 << 220 2.0.0 Ready to start TLS<EOL>
+21.12.14 12:05:37 >> EHLO DESKTOP-768F313<EOL>
+21.12.14 12:05:37 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.12.14 12:05:37 >> AUTH LOGIN<EOL>
+21.12.14 12:05:37 << 334 VXNlcm5hbWU6<EOL>
+21.12.14 12:05:37 >> YXV0b21vdGl2ZXNpdGVjb250YWN0QGdtYWlsLmNvbQ==<EOL>
+21.12.14 12:05:37 << 334 UGFzc3dvcmQ6<EOL>
+21.12.14 12:05:37 >> aGFzbG9tYWxvYmV6cGllY3puZWFsZWRsdWdpZQ==<EOL>
+21.12.14 12:05:37 << 235 2.7.0 Accepted<EOL>
+21.12.14 12:05:37 >> MAIL FROM: <automotivesitecontact@gmail.com><EOL>
+21.12.14 12:05:37 << 250 2.1.0 OK c15sm1788091lfb.154 - gsmtp<EOL>
+21.12.14 12:05:37 >> RCPT TO: <automotivesitecontact@gmail.com><EOL>
+21.12.14 12:05:38 << 250 2.1.5 OK c15sm1788091lfb.154 - gsmtp<EOL>
+21.12.14 12:05:38 >> DATA<EOL>
+21.12.14 12:05:38 << 354  Go ahead c15sm1788091lfb.154 - gsmtp<EOL>
+21.12.14 12:05:38 >> Date: Tue, 14 Dec 2021 12:05:38 +0100<EOL>
+21.12.14 12:05:38 >> To: automotivesitecontact@gmail.com<EOL>
+21.12.14 12:05:38 >> Subject: Temat<EOL>
+21.12.14 12:05:38 >> Email sent from: michał@gmail.com<EOL>
+21.12.14 12:05:38 >> <EOL>
+21.12.14 12:05:38 >> You have new message from Michał.<EOL>
+21.12.14 12:05:38 >> <EOL>
+21.12.14 12:05:38 >> wiadomosc<EOL>
+21.12.14 12:05:38 >> .<EOL>
+21.12.14 12:05:38 << 250 2.0.0 OK  1639479882 c15sm1788091lfb.154 - gsmtp<EOL>
+21.12.14 12:05:38 >> QUIT<EOL>
+21.12.14 12:05:38 << 221 2.0.0 closing connection c15sm1788091lfb.154 - gsmtp<EOL>
+21.12.14 12:05:38 ** Disconnecting from smtp.gmail.com:587
+21.12.14 12:05:38 ** Disconnected.
+21.12.14 12:05:38 ** Disconnected.
+21.12.14 12:21:33 ** --- MESSAGE BEGIN ---
+21.12.14 12:21:33 ** To: automotivesitecontact@gmail.com
+21.12.14 12:21:33 ** Subject: a@gmail.com
+21.12.14 12:21:33 ** Email sent from: aa
+21.12.14 12:21:33 ** 
+21.12.14 12:21:33 ** You have new message from aa.
+21.12.14 12:21:33 ** 
+21.12.14 12:21:33 ** aaaa
+21.12.14 12:21:33 ** --- MESSAGE END ---
+21.12.14 12:21:33 ** Connecting to smtp.gmail.com:587
+21.12.14 12:21:34 ** Connected.
+21.12.14 12:21:34 << 220 smtp.gmail.com ESMTP u8sm1799952lje.91 - gsmtp<EOL>
+21.12.14 12:21:34 >> EHLO DESKTOP-768F313<EOL>
+21.12.14 12:21:34 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.12.14 12:21:34 ** Authenticating as automotivesitecontact@gmail.com
+21.12.14 12:21:34 >> STARTTLS<EOL>
+21.12.14 12:21:34 << 220 2.0.0 Ready to start TLS<EOL>
+21.12.14 12:21:34 >> EHLO DESKTOP-768F313<EOL>
+21.12.14 12:21:34 << 250-smtp.gmail.com at your service, [87.101.34.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21.12.14 12:21:34 >> AUTH LOGIN<EOL>
+21.12.14 12:21:34 << 334 VXNlcm5hbWU6<EOL>
+21.12.14 12:21:34 >> YXV0b21vdGl2ZXNpdGVjb250YWN0QGdtYWlsLmNvbQ==<EOL>
+21.12.14 12:21:34 << 334 UGFzc3dvcmQ6<EOL>
+21.12.14 12:21:34 >> aGFzbG9tYWxvYmV6cGllY3puZWFsZWRsdWdpZQ==<EOL>
+21.12.14 12:21:34 << 235 2.7.0 Accepted<EOL>
+21.12.14 12:21:34 >> MAIL FROM: <automotivesitecontact@gmail.com><EOL>
+21.12.14 12:21:34 << 250 2.1.0 OK u8sm1799952lje.91 - gsmtp<EOL>
+21.12.14 12:21:34 >> RCPT TO: <automotivesitecontact@gmail.com><EOL>
+21.12.14 12:21:34 << 250 2.1.5 OK u8sm1799952lje.91 - gsmtp<EOL>
+21.12.14 12:21:34 >> DATA<EOL>
+21.12.14 12:21:34 << 354  Go ahead u8sm1799952lje.91 - gsmtp<EOL>
+21.12.14 12:21:34 >> Date: Tue, 14 Dec 2021 12:21:34 +0100<EOL>
+21.12.14 12:21:34 >> To: automotivesitecontact@gmail.com<EOL>
+21.12.14 12:21:34 >> Subject: a@gmail.com<EOL>
+21.12.14 12:21:34 >> Email sent from: aa<EOL>
+21.12.14 12:21:34 >> <EOL>
+21.12.14 12:21:34 >> You have new message from aa.<EOL>
+21.12.14 12:21:34 >> <EOL>
+21.12.14 12:21:34 >> aaaa<EOL>
+21.12.14 12:21:34 >> .<EOL>
+21.12.14 12:21:35 << 250 2.0.0 OK  1639480838 u8sm1799952lje.91 - gsmtp<EOL>
+21.12.14 12:21:35 >> QUIT<EOL>
+21.12.14 12:21:35 << 221 2.0.0 closing connection u8sm1799952lje.91 - gsmtp<EOL>
+21.12.14 12:21:35 ** Disconnecting from smtp.gmail.com:587
+21.12.14 12:21:35 ** Disconnected.
+21.12.14 12:21:35 ** Disconnected.

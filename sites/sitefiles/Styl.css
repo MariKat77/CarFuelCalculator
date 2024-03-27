@@ -1,0 +1,321 @@
+html{
+	min-height:100%;
+	position:relative;
+}
+
+body{
+	height:100%;
+	background: linear-gradient(to bottom, black, #9932CC);
+	font-family: sans-serif;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.background{	
+	margin:0;
+	width:100%;
+
+}
+
+.logo{
+	width:140px;
+}
+
+h1{
+	color:white;
+	text-decoration: none;
+}
+
+h5{
+	color:white;
+	font-size:20px;
+}
+
+p{
+	color:white;
+}
+#Link:hover h1{
+	color:#9932CC;
+}
+
+nav{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+nav ul li{
+	display:inline-block;
+	margin:10px 30px;
+	list-style:none;
+	letter-spacing:2px;
+}
+h2 {
+	font-size:16px;
+	color: white;
+}
+.dropdown{
+	float:left;
+	overflow:hidden;
+}
+.dropdown:hover h1{
+	color:#9932CC;
+}
+.dropdown-content{
+	display: none;
+  position: absolute;
+  background-color: #9932CC;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+	display:none;
+	color: black;
+	padding:12px 16px;
+	text-decoration:none;
+	display:block;
+	text-align: center;
+}
+.dropdown-content a:hover{
+	background-color:#ddd;
+}
+.dropdown:hover .dropdown-content{
+	display:block;
+}
+.about-p{
+
+	font-size:20px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	text-align:center;
+
+}
+.signup-form{
+	
+	width: 500px;
+	padding: 40px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	background: url(https://64.media.tumblr.com/69be13d66ffe5b85b4f75a9e2d544db6/tumblr_pu0pe5p27C1rsdpaso1_500.gifv) 0 -140px;
+	text-align: center;
+}
+.login-form{
+	width: 400px;
+	padding: 40px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	background: url(https://i.pinimg.com/originals/06/8a/a3/068aa3aab4656025e4038025aec421cb.gif) 0 -100px;
+	text-align: center;
+}
+
+
+.login-form h1{
+	font-size:32px;
+	color:white;
+}
+.login-form p{
+	font-size:14px;
+	color:white;
+}
+
+
+.maincontainer {
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;
+}
+
+/* dodać letter-spacing:2px; do h2 w kazdym tytule boxa; */
+.leftcontainer {
+	margin-top:170px;
+	display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: center;
+}
+
+
+.rightcontainer {
+	margin-top:170px;
+	display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: center;
+}
+
+.statcontainer{
+
+	margin-top:170px;
+	display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: center;
+}
+.contactcontainer{
+	
+	width: 500px;
+	padding: 40px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	background: black;
+	text-align: center;
+	border-radius:20px;
+}
+.f-c-form{
+	margin-bottom:30px;
+	width: 400px;
+	padding: 40px;
+	position: relative;
+	text-align:center;
+	background:black;
+	border-radius:20px;
+	
+}
+
+.f-c-calc input[type="text"], .signup-form input[type="text"], .signup-form input[type="password"], .login-form input[type="text"], .login-form input[type="password"]{
+	padding:0.3em;
+	border:1px solid #444;
+	background: #222;
+	display: block;
+	margin: auto;
+	text-align:center;	
+	width:200px;
+	outline:none;
+	color:white;
+	
+}
+.f-c-calc textarea[type="message"]{
+	height:200px;
+	width:400px;
+	padding:0.3em;
+	border:2px solid #444;
+	background: #222;
+	display: block;
+	margin: auto;
+	text-align:left;	
+	outline:none;
+	color:white;
+	
+}
+.f-c-calc input[type="number"]{
+	padding:0.3em;
+	border:2px solid #444;
+	background: #222;
+	display: block;
+	margin: auto;
+	text-align:center;	
+	width:200px;
+	outline:none;
+	color:white;
+	
+}
+.f-c-calc input[type="date"]{
+	padding:0.3em;
+	border:2px solid #444;
+	background: #222;
+	display: block;
+	margin: auto;
+	text-align:center;	
+	width:200px;
+	outline:none;
+	color:white;
+	color:grey;
+	
+}
+
+
+.f-c-calc label, .f-c-form h2{
+	
+	color:white;
+	font-size:16px;
+	
+}
+
+.main-page{
+	width: 800px;
+	height:400px;
+	padding: 40px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	background:none;
+
+	text-align: center;
+}
+
+.privacy-page h1, .privacy-page p{
+	font-size:16px;
+	color:white;
+}
+.f-c-calc button[type="submit"], .signup-form button[type="submit"], .login-form button[type="submit"]{
+	border-radius:10px;
+	padding:0.3em;
+	border:2px solid #444;
+	background: #222;
+	display: block;
+	margin: auto;
+	text-align:center;	
+	width:200px;
+	outline:none;
+	color:white;
+}
+.f-c-calc button[type="submit"]:hover, .signup-form button[type="submit"]:hover, .login-form button[type="submit"]:hover{
+	background:grey;
+}
+.main-page h5{
+	font-size:20px;
+	color:white;
+	padding:20px;
+	
+}
+.main-page p{
+	color:white;
+	padding:20px;
+
+}
+.main-page a{
+	color:cyan;
+}
+.pic{
+	margin:50px auto;
+	width:1000px;
+	height:600px;
+
+	
+}
+
+#main-footer{
+	position:absolute;
+	bottom:0;
+	width:100%;
+	background:url(https://miro.medium.com/max/4000/1*mWWz_fABgRc-W2s4VHF6PQ.gif) -150px -700px;
+	
+	text-align:center;
+	padding:20px;
+}
+
