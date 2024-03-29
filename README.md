@@ -22,7 +22,7 @@ Project is created with:
 * MySQL
 	
 ## Setup
-The files containing the website's code are in the 'sites' directory, in sendmail directory are code files to email notification functionality.
+The files containing the website's code are in the 'sites/sitefiles' directory, in 'sendmail' directory are code files to email notification functionality.
 
 ## Live deployment
 [Live deployment link to website](https://falsest-matters.000webhostapp.com/)
