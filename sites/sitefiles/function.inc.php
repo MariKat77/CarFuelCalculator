@@ -11,7 +11,7 @@ function emptyInputSignup($name, $email, $password, $passwordrep){
 	}
 	return $result; 
 }
-//Checking for proper znaki
+//Checking for proper chars
 function invalidUsername($name){
 	$result;
 	if(!preg_match("/^[a-zA-Z0-9]*$/", $name)) {
