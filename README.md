@@ -25,5 +25,5 @@ Project is created with:
 The files containing the website's code are in the 'sites' directory, in sendmail directory are code files to email notification functionality.
 
 ## Live deployment
-[Live deployment link to website]([(https://falsest-matters.000webhostapp.com/)])
+[Live deployment link to website](https://falsest-matters.000webhostapp.com/)
 
